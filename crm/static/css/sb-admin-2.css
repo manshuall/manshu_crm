@@ -72,6 +72,10 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
+#id_username
+{
+  background:yellow!important;
+}
 
 hr {
   box-sizing: content-box;
